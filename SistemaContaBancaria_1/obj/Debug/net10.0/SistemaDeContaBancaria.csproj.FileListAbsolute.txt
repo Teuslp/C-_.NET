@@ -1,0 +1,14 @@
+C:\dev\C#\SistemaDeContaBancaria\bin\Debug\net10.0\SistemaDeContaBancaria.exe
+C:\dev\C#\SistemaDeContaBancaria\bin\Debug\net10.0\SistemaDeContaBancaria.deps.json
+C:\dev\C#\SistemaDeContaBancaria\bin\Debug\net10.0\SistemaDeContaBancaria.runtimeconfig.json
+C:\dev\C#\SistemaDeContaBancaria\bin\Debug\net10.0\SistemaDeContaBancaria.dll
+C:\dev\C#\SistemaDeContaBancaria\bin\Debug\net10.0\SistemaDeContaBancaria.pdb
+C:\dev\C#\SistemaDeContaBancaria\obj\Debug\net10.0\SistemaDeContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\SistemaDeContaBancaria\obj\Debug\net10.0\SistemaDeContaBancaria.AssemblyInfoInputs.cache
+C:\dev\C#\SistemaDeContaBancaria\obj\Debug\net10.0\SistemaDeContaBancaria.AssemblyInfo.cs
+C:\dev\C#\SistemaDeContaBancaria\obj\Debug\net10.0\SistemaDeContaBancaria.csproj.CoreCompileInputs.cache
+C:\dev\C#\SistemaDeContaBancaria\obj\Debug\net10.0\SistemaDeContaBancaria.dll
+C:\dev\C#\SistemaDeContaBancaria\obj\Debug\net10.0\refint\SistemaDeContaBancaria.dll
+C:\dev\C#\SistemaDeContaBancaria\obj\Debug\net10.0\SistemaDeContaBancaria.pdb
+C:\dev\C#\SistemaDeContaBancaria\obj\Debug\net10.0\SistemaDeContaBancaria.genruntimeconfig.cache
+C:\dev\C#\SistemaDeContaBancaria\obj\Debug\net10.0\ref\SistemaDeContaBancaria.dll
