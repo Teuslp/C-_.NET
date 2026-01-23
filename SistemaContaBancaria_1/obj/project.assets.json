@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mateus Lima\\.nuget\\packages\\": {}
+    "C:\\Users\\mateus ti - Julio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\C#\\C# .NET\\SistemaContaBancaria_1\\SistemaDeContaBancaria.csproj",
+      "projectUniqueName": "C:\\dev\\DotNet\\SistemaContaBancaria_1\\SistemaDeContaBancaria.csproj",
       "projectName": "SistemaDeContaBancaria",
-      "projectPath": "C:\\dev\\C#\\C# .NET\\SistemaContaBancaria_1\\SistemaDeContaBancaria.csproj",
-      "packagesPath": "C:\\Users\\Mateus Lima\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\C#\\C# .NET\\SistemaContaBancaria_1\\obj\\",
+      "projectPath": "C:\\dev\\DotNet\\SistemaContaBancaria_1\\SistemaDeContaBancaria.csproj",
+      "packagesPath": "C:\\Users\\mateus ti - Julio\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\DotNet\\SistemaContaBancaria_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mateus Lima\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mateus ti - Julio\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
